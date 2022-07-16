@@ -1,14 +1,47 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+  </component>
   <component name="EditorSettings">
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="ObjectiveC.oc.type.hints" />
+      </set>
+    </option>
     <option name="disabledLanguages">
       <set>
         <option value="ObjectiveC" />
       </set>
     </option>
+    <option name="lastViewedProviderKeyId" value="" />
+    <settingsMapElement>
+      <ObjectiveC.oc.type.hints>
+        <ClionClangTypeHintSettings>
+          <option name="showDeducedParameterTypes" value="false" />
+          <option name="showDeducedReturnTypes" value="false" />
+          <option name="showForLambdas" value="false" />
+          <option name="showForVariables" value="false" />
+        </ClionClangTypeHintSettings>
+      </ObjectiveC.oc.type.hints>
+    </settingsMapElement>
+  </component>
+  <component name="OCCodeFoldingSettings">
+    <option name="collapseConditionallyNotCompiled" value="false" />
+    <option name="collapseNewLineBeforeLBrace" value="false" />
+    <option name="COLLAPSE_CONDITIONALLY_NOT_COMPILED" value="false" />
+    <option name="COLLAPSE_NEW_LINE_BEFORE_LBRACE" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />

@@ -15,26 +15,21 @@
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="disabledHintProviderIds">
-      <set>
-        <option value="ObjectiveC.oc.type.hints" />
-      </set>
-    </option>
-    <option name="disabledLanguages">
-      <set>
-        <option value="ObjectiveC" />
-      </set>
-    </option>
     <option name="lastViewedProviderKeyId" value="" />
     <settingsMapElement>
       <ObjectiveC.oc.type.hints>
         <ClionClangTypeHintSettings>
-          <option name="showDeducedParameterTypes" value="false" />
-          <option name="showDeducedReturnTypes" value="false" />
-          <option name="showForLambdas" value="false" />
-          <option name="showForVariables" value="false" />
+          <option name="showObviousTypes" value="true" />
         </ClionClangTypeHintSettings>
       </ObjectiveC.oc.type.hints>
+      <SQL.sql.join.cardinality.hints>
+        <Settings>
+          <option name="showForFullJoin" value="true" />
+          <option name="showForInnerJoin" value="true" />
+          <option name="showForLeftJoin" value="true" />
+          <option name="showForRightJoin" value="true" />
+        </Settings>
+      </SQL.sql.join.cardinality.hints>
     </settingsMapElement>
   </component>
   <component name="OCCodeFoldingSettings">

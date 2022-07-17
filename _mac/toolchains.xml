@@ -2,7 +2,7 @@
   <component name="CPPToolchains" version="8">
     <toolchains detectedVersion="5">
       <toolchain name="Default" toolSetKind="SYSTEM_UNIX_TOOLSET" debuggerKind="BUNDLED_LLDB" />
-      <toolchain name="Remote Host" toolSetKind="REMOTE" customCMakePath="/usr/bin/cmake" hostId="eeae7231-a7af-4ff0-a717-f55be9a8fd4e" sshConfigName="lwh@127.0.0.1:2222 agent" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
+      <toolchain name="Remote Host" toolSetKind="REMOTE" customCMakePath="/usr/bin/cmake" hostId="eeae7231-a7af-4ff0-a717-f55be9a8fd4e" sshConfigName="kuro@192.168.196.2:22 agent" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
     </toolchains>
   </component>
 </application>

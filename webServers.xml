@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="eeae7231-a7af-4ff0-a717-f55be9a8fd4e" name="Remote Host (eeae7231-a7af-4ff0-a717-f55be9a8fd4e)" url="http:///">
-        <fileTransfer accessType="SFTP" host="127.0.0.1" port="2222" sshConfigId="25bffef5-5794-464c-9b5a-c92e97af7cd5" sshConfig="lwh@127.0.0.1:2222 agent" authAgent="true">
+        <fileTransfer accessType="SFTP" host="192.168.196.2" port="22" sshConfigId="bf979c15-9d29-4115-bf48-b8eaf89cc449" sshConfig="kuro@192.168.196.2:22 agent" authAgent="true">
           <advancedOptions>
             <advancedOptions isUseRsync="true" />
           </advancedOptions>

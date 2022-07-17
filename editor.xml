@@ -23,11 +23,6 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="" />
     <settingsMapElement>
-      <ObjectiveC.oc.type.hints>
-        <ClionClangTypeHintSettings>
-          <option name="showObviousTypes" value="true" />
-        </ClionClangTypeHintSettings>
-      </ObjectiveC.oc.type.hints>
       <SQL.sql.join.cardinality.hints>
         <Settings>
           <option name="showForFullJoin" value="true" />
